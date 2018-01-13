@@ -1,5 +1,6 @@
 # TareaDWES02
 Trabajar con base de datos en PHP
+
 Debes crear una aplicación en PHP que gestione la banca electrónica del banco Diodos que vimos en la tarea anterior, añadiéndole otras funcionalidades. En esta ocasión TODOS los datos serán almacenados en una base de datos en MySQL llamada banca_electronica (se adjunta el script para la creación de la base de datos:banca_electronica.sql
 El acceso a la base de datos debe hacerse a través del usuario dwes con contraseña dwes. La conexión debe hacerse mediante PDO.
 En la página principal (index.php)  se debe mostrar el menú que de acceso a:
